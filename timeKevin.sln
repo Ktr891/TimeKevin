@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoTime.Common", "todoTime.Common\todoTime.Common.csproj", "{9ACDEB60-7EB6-4C9F-B005-16758A2177E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timeKevin.Common", "todoTime.Common\timeKevin.Common.csproj", "{9ACDEB60-7EB6-4C9F-B005-16758A2177E4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timeKevin.Function", "timeKevin.Function\timeKevin.Function.csproj", "{37F5C735-1477-480C-8AC6-0225E7EA25CA}"
 EndProject
