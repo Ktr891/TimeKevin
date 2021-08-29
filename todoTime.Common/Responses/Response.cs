@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace todoKevin.common.Responses
+namespace timeKevin.common.Responses
 {
     public class Response
     {

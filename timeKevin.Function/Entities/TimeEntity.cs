@@ -8,7 +8,7 @@ namespace timeKevin.Function.Entities
     public class TimeEntity : TableEntity
     {
         public int IdEmployee { get; set; }
-        public DateTime EntryDate { get; set; }
+        public DateTime Date { get; set; }
         public string Type { get; set; }
         public bool Consolidate { get; set; }
     }
