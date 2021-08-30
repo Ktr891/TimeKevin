@@ -35,6 +35,14 @@ namespace timeKevin.Function.Functions
                     Message = "The request must have a entry type (0: entrance, 1: exit)"
                 });
             }
+            if (time.IdEmployee == null)
+            {
+                return new BadRequestObjectResult(new Response
+                {
+                    IsSuccess = false,
+                    Message = "The request must have a Id employee"
+                });
+            }
 
             TimeEntity timeEntity = new TimeEntity
             {
